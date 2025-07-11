@@ -10,7 +10,7 @@ TELEGRAM_TOKEN = os.getenv("7827676271:AAFiLpB31_vGo2KFNNTni2O_67sXeZ3k9wM")
 OPENAI_API_KEY = os.getenv("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")
 
 # Set OpenAI key
-openai.api_key = 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
+openai.api_key = "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"
 
 # Enable logs
 logging.basicConfig(level=logging.INFO)
